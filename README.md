@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [FaisalalSalih] 👋
 
 ### Frontend Developer | Web Enthusiast | Lifelong Learner
 
@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm a passionate frontend developer with a love for crafti
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, Bootstrap, Tailwind CSS
 - **Tools & Platforms:** Git, GitHub, VS Code, npm
-- **CSS Preprocessors:** SASS/SCSS (if applicable)
 - **Responsive Design:** Media Queries, Flexbox, Grid
 - **Version Control:** Git
 
