@@ -22,7 +22,7 @@ I'm constantly expanding my skillset. Right now, I'm diving deeper into:
 
 - **Backend Development:** Planning to start with Node.js and Express.js
 - **JavaScript Advanced Concepts**
-- **State Management Libraries:** Redux (if applicable)
+- **State Management Libraries:** Redux 
 
 ---
 s
