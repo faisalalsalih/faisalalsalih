@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I'm Faisal — a frontend developer focused on building dynamic, scalable, and product-driven web applications.<br><br>- 🔧 **React + GSAP Specialist** — I craft animated UIs with precision, from card carousels to sidebar toggles.<br>- 🧠 **TypeScript & Architecture Enthusiast** — I design maintainable logic using generics, interfaces, and hybrid patterns.<br>- ⚡ **CSS Purist** — I prefer vanilla CSS for layout control, animation performance, and debugging cascade issues.<br>- 🌐 **Next.js Explorer** — Learning SSR, SSG, and file-based routing to build fast, SEO-friendly apps.<br>- 🎯 **Product Mindset** — I think like a founder: every component considers UX, performance, and business impact.<br>
+Hi, I'm Faisal — a frontend engineer specializing in **Next.js + React**, building dynamic, scalable, and product‑focused applications.<br><br>
+
+- ⚛️ **Next.js 14 Specialist** — I leverage App Router, server components, and edge functions to deliver fast, SEO‑friendly apps.<br>
+- 🎨 **UI Builder with Shadcn + TailwindCSS** — I craft modern, responsive interfaces with design systems and accessibility in mind.<br>
+- 🧠 **TypeScript & State Management** — I write maintainable logic with generics, interfaces, Redux, and TanStack Query.<br>
+- 🗄️ **MongoDB & Clerk Integration** — I design secure, scalable backends with authentication, data modeling, and cloud deployment.<br>
+- 🚀 **Product‑Driven Mindset** — I think like a founder: every feature balances UX, performance, and business impact.<br>
+- 🤖 **AI‑Powered Development** — Exploring LLM APIs and vector databases to integrate intelligent features into full‑stack apps.<br>
+
 
 
 ## 🌐 Socials:
