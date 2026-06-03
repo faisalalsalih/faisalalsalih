@@ -1,12 +1,12 @@
 # 💫 About Me:
 Hi, I'm Faisal — a frontend engineer specializing in **Next.js + React**, building dynamic, scalable, and product‑focused applications.<br><br>
 
-- ⚛️ **Next.js 14 Specialist** — I leverage App Router, server components, and edge functions to deliver fast, SEO‑friendly apps.<br>
-- 🎨 **UI Builder with Shadcn + TailwindCSS** — I craft modern, responsive interfaces with design systems and accessibility in mind.<br>
-- 🧠 **TypeScript & State Management** — I write maintainable logic with generics, interfaces, Redux, and TanStack Query.<br>
-- 🗄️ **MongoDB & Clerk Integration** — I design secure, scalable backends with authentication, data modeling, and cloud deployment.<br>
-- 🚀 **Product‑Driven Mindset** — I think like a founder: every feature balances UX, performance, and business impact.<br>
-- 🤖 **AI‑Powered Development** — Exploring LLM APIs and vector databases to integrate intelligent features into full‑stack apps.<br>
+ ⚛️ **Next.js 14 Specialist** — I leverage App Router, server components, and edge functions to deliver fast, SEO‑friendly apps.<br>
+ 🎨 **UI Builder with Shadcn + TailwindCSS** — I craft modern, responsive interfaces with design systems and accessibility in mind.<br>
+ 🧠 **TypeScript & State Management** — I write maintainable logic with generics, interfaces, Redux, and TanStack Query.<br>
+ 🗄️ **MongoDB & Clerk Integration** — I design secure, scalable backends with authentication, data modeling, and cloud deployment.<br>
+ 🚀 **Product‑Driven Mindset** — I think like a founder: every feature balances UX, performance, and business impact.<br>
+ 🤖 **AI‑Powered Development** — Exploring LLM APIs and vector databases to integrate intelligent features into full‑stack apps.<br>
 
 
 
